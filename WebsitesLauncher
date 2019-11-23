@@ -11,8 +11,10 @@ h1 {
   font-weight: bold
 }
 </style>
+<div style="text-align: center">
 <h1>The Project Hub Website Launcher</h1>
 <h3>By UDevsStuff (UTheDev)</h3>
+</div>
 </head>
 </head>
 </html>

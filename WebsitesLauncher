@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<title>The Website Launcher</title>
+<head>
+<style>
+h1, h2, h3, p, {
+  font-family: sans-serif;
+  color: white;
+}
+h1 {
+  font-weight: bold
+}
+</style>
+<h1>The Project Hub Website Launcher</h1>
+<h3>By UDevsStuff (UTheDev)</h3>
+</head>
+</head>
+</html>

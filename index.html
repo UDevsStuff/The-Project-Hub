@@ -24,7 +24,10 @@ h1 {
     console.log("Hello console reader! The design might be changed.");
     var bgHue = 0
     function backgroundcolor() {
-      document.getElementById("background").style.backgroundColor = "RGB"
+      document.getElementById("background").style.backgroundColor = "HSV" + "(" + bgHue + ",50,50)";
+    }
+    function backgroundcolor();
+    setInterval(backgroundcolor, 1);
   </script>
 </body>
 </html>

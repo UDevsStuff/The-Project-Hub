@@ -1,0 +1,171 @@
+html {
+  color: white;
+  font-family: helvetica;
+}
+h2 {
+	color: white;
+	font-family: helvetica;
+	font-weight: 700;
+	font-size: 20;
+}
+
+h1 {
+	font-family: helvetica
+}
+
+p {
+	color: white;
+	font-family: helvetica;
+	font-weight: normal;
+}
+
+b {
+	color: white;
+	font-family: helvetica;
+}
+
+a {
+	font-family: helvetica;
+	text-decoration: none;
+	text-weight: bold;
+}
+
+h6 {
+	font-family: helvetica;
+	font-size: 12;
+	text-weight: normal;
+}
+
+img {
+	width: 30%;
+	height: 30%;
+}
+
+.linkbox {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-family: helvetica;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.button {
+	padding: 10px 20px;
+	border: 2px solid white;
+	font-family: helvetica;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	display: block;
+	cursor: pointer;
+
+}
+
+table, th, td {
+	padding: 10px 40px;
+	border: 1px solid black;
+	font-family: helvetica;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+tr.tabletitle {
+	font-weight: bold;
+	
+}
+
+ul, ol {
+	font-family: helvetica;
+	type: 1;
+}
+
+.navmenu {
+	padding: 16px;
+	color: rgb(153,116,36);
+	text-align: center;
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+#navmenu li a:hover {
+	background-color: gray;
+}
+
+#navmenu ul {
+	list-style: none;
+}
+
+#navmenu li {
+	display: inline;
+	padding: 20px;
+	color: rgb(153,116,36);
+	text-align: center;
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+img {
+	border: 2px solid black
+}
+
+#titleimage img {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	display: block;
+}
+
+iframe {
+	width: 300px;
+	height: 500px;
+}
+
+.textbtn {
+	color: rgb(0,0,100);
+	font-family: helvetica;
+	font-weight: normal;
+	cursor: pointer;
+}
+
+title {
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+form, label, select {
+	font-family: helvetica;
+}
+
+html {
+	background-image: url("tree-sunset.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.spanhover {
+  cursor: pointer;
+  color: white;
+}
+
+.spanhover :onhover {
+  color: hotpink;
+}
+
+.divBG {
+  text-align: center;
+  background-color: rgba(0,0,0,0.3);
+  padding: 30px;
+  margin: 30px;
+}
+
+.divbutton{
+  overflow: hidden;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
+}
